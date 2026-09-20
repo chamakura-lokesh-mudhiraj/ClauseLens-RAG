@@ -1,0 +1,9 @@
+{
+  "retrieval_method": "Hybrid BM25 + Dense + RRF",
+  "evaluation_questions": 6702,
+  "hit_at_1": 0.2802148612354521,
+  "hit_at_5": 0.5837063563115488,
+  "hit_at_10": 0.7520143240823635,
+  "mrr": 0.4125192432488768,
+  "failed_queries": 1662
+}

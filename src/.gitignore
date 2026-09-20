@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Large datasets
+data/raw/*
+data/processed/*
+data/evaluation/*
+
+# Vector indexes
+*.faiss
+*.index
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
